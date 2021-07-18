@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\CU-event\CU-event\bin\Debug\CU-event.exe.config
+C:\Users\Administrator\source\repos\CU-event\CU-event\bin\Debug\CU-event.exe
+C:\Users\Administrator\source\repos\CU-event\CU-event\bin\Debug\CU-event.pdb
+C:\Users\Administrator\source\repos\CU-event\CU-event\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Administrator\source\repos\CU-event\CU-event\obj\Debug\CU-event.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CU-event\CU-event\obj\Debug\CU_event.Form1.resources
+C:\Users\Administrator\source\repos\CU-event\CU-event\obj\Debug\CU_event.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CU-event\CU-event\obj\Debug\CU-event.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CU-event\CU-event\obj\Debug\CU-event.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CU-event\CU-event\obj\Debug\CU-event.csproj.CopyComplete
+C:\Users\Administrator\source\repos\CU-event\CU-event\obj\Debug\CU-event.exe
+C:\Users\Administrator\source\repos\CU-event\CU-event\obj\Debug\CU-event.pdb
+C:\Users\Administrator\source\repos\CU-event\CU-event\bin\Debug\WebDriver.dll
+C:\Users\Administrator\source\repos\CU-event\CU-event\bin\Debug\WebDriver.xml
