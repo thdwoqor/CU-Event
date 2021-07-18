@@ -140,5 +140,23 @@ namespace CU_event
                 bunifuMaterialTextbox2.Text = "";
             }
         }
+
+        private void bunifuThinButton22_Click(object sender, EventArgs e)
+        {
+            while (true)
+            {
+                var element = _driver.FindElement(By.XPath("//*[@id='event_app']/section/div[2]/ul/li[1]/div[2]/button"));
+                _driver.ExecuteScript("arguments[0].click();", element);
+
+                try
+                {
+                    element = _driver.FindElement(By.XPath("//*[@id='evtpop_31']/div[2]/button"));
+                    _driver.ExecuteScript("arguments[0].click();", element);
+                }
+                catch (Exception ex)
+                {
+                }
+            }
+        }
     }
 }
